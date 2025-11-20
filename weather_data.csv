@@ -1,0 +1,6 @@
+Timestamp,City,Country,Temperature (°C),Feels Like (°C),Humidity (%),Condition,Wind Speed (m/s)
+2025-11-19 19:53:46,Guntur,IN,21.14,21.11,69,Clear sky,2.68
+2025-11-19 19:54:45,Delhi,IN,21.05,20.67,56,Haze,0
+2025-11-19 19:56:05,London,GB,4.9,0.31,82,Broken clouds,7.2
+2025-11-19 20:01:36,Tokyo,JP,9.43,8.1,51,Broken clouds,2.57
+2025-11-19 20:02:06,New York,US,4.21,0.54,88,Mist,4.63
